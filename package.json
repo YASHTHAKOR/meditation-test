@@ -1,0 +1,29 @@
+{
+  "name": "meditation-test",
+  "version": "1.0.0",
+  "description": "test for mongodb",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm run test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/YASHTHAKOR/meditation-test.git"
+  },
+  "keywords": [
+    "node",
+    "mongodb"
+  ],
+  "author": "YASH THAKOR",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/YASHTHAKOR/meditation-test/issues"
+  },
+  "homepage": "https://github.com/YASHTHAKOR/meditation-test#readme",
+  "dependencies": {
+    "architect": "^0.1.13",
+    "dotenv": "^8.2.0",
+    "express": "^4.17.1",
+    "mongoose": "^5.10.15"
+  }
+}
